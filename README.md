@@ -9,7 +9,7 @@ Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Ta
 ## :star: My Work
 
 [Hardware E-commerce](https://e-commerce-copy.vercel.app)
-[Home View](/Users/estefaniapecora/Desktop)
+![Home View](/Users/estefaniapecora/Desktop/e-commerce_home)
 
 [Country Explorer](https://github.com/estePecora/Countries-App)
 
