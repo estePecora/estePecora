@@ -9,9 +9,10 @@ Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Ta
 ## My Work
 
 
-## How to Reach me
-b.estefaniapecora@gmail.com
-https://www.linkedin.com/in/estefania-pecora/
+## :mailbox_with_mail: How to Reach me
+- b.estefaniapecora@gmail.com
+- https://www.linkedin.com/in/estefania-pecora/
+
 
 
 
