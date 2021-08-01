@@ -1,12 +1,14 @@
 
-## Hi! I'm Estefania!
+## Hi! I'm Estefania! :rocket:
+:zap:
+
 
 ### Full Stack developer and creative thinker
 - - -
-## Skills
+## :computer: Skills
 Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Tailwindcss
 
-## My Work
+## :star: My Work
 
 
 ## :mailbox_with_mail: How to Reach me
