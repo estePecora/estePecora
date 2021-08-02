@@ -17,9 +17,15 @@ Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Ta
 
 #### Country Explorer
 [Link to work](https://github.com/estePecora/Countries-App)
+![Screenshot (186)](https://user-images.githubusercontent.com/77625247/127819295-ca797760-1a70-4403-adfa-16100c5e5c74.png)
+
 
 #### Movie Searcher
 [Link to work](https://github.com/estePecora/MovieSearcher)
+
+
+#### Friend Finder!
+[Screenshot (74)](https://user-images.githubusercontent.com/77625247/127819405-d5840fcd-39fb-4acb-b48a-6d67eec28552.png)
 
 
 ## :mailbox_with_mail: How to Reach me
