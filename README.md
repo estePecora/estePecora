@@ -1,8 +1,9 @@
 
 
 
-![portadaGithubi-16](https://user-images.githubusercontent.com/77625247/127816974-77e972c5-8145-479b-8e41-b8f005ef24af.jpg)
-## Hi! I'm Estefania! :rocket:
+![github-banner](https://user-images.githubusercontent.com/77625247/127877586-9f8147d4-673e-4213-91d8-328a63b53b34.jpg)
+
+## Hello World! I'm Estefania! :raising_hand:
 
 ### Full Stack developer :zap: I enjoy finding creative solutions
 I never outgrew childhood curiosity; I’m always asking why and how about everything. That’s how I ended up taking my first steps at coding, and eventually I realized it combined lots of the things I love: technology, creative thinking, and the fact you are always learning something new. So I decided to pursue it as a new career path.<br/>
