@@ -11,8 +11,10 @@ This desition came as no suprise for me, since I’ve always had been interested
 As a former Ad creative, I’ve worked with cross-platform teams, and many clients. I overall enjoy working with brands or companies that have social impact. I have an analytic mind and I’m a fast learner. If you like my profile leave me a message! :smile:
 
 - - -
-## :computer: Skills
-Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Tailwindcss - Figma - Trello
+## :computer: Tools and Technologies
+![stack-logos](https://user-images.githubusercontent.com/77625247/127882351-b3a67430-e04b-41dd-ae66-a43197f64fd5.jpg)
+
+Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Tailwindcss - Figma - Trello - Python - Postman - MySQL
 - - -
 ## :star: My Work
 
