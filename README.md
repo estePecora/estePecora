@@ -5,9 +5,8 @@
 ## Hi! I'm Estefania! :rocket:
 
 ### Full Stack developer :zap: I enjoy finding creative solutions
-I never outgrew childhood curiosity; I’m always asking why and how about everything.
-That’s how I ended up taking my first steps at coding, and eventually I realized it combined lots of the things I love: technology, creative thinking, and the fact you are always learning something new. So I decided to pursue it as a new career path.
-This is not a surprise, since I’ve always had been interested in science and technology, I began my studies both in engineering and design, but as I started working I had to focus on one and decided to go with design. 
+I never outgrew childhood curiosity; I’m always asking why and how about everything. That’s how I ended up taking my first steps at coding, and eventually I realized it combined lots of the things I love: technology, creative thinking, and the fact you are always learning something new. So I decided to pursue it as a new career path.<br/>
+This is not a surprise, since I’ve always had been interested in science and technology, I began my studies both in engineering and design, but as I started working I had to focus on one and decided to go with design.<br/>
 I overall enjoy working with brands or companies that have social impact. As a former Ad creative, I’ve worked with cross-platform teams, and many different clients. I have an analytic mind and I’m a fast learner. If you like my profile leave me a message!  
 
 - - -
