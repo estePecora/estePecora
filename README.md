@@ -22,6 +22,7 @@ Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Ta
 
 #### Movie Searcher
 [Link to work](https://github.com/estePecora/MovieSearcher)
+![Screenshot (278)](https://user-images.githubusercontent.com/77625247/127820564-0d240195-3a47-4342-84c1-8fa983adf68d.png)
 
 
 #### Friend Finder!
