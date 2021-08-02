@@ -4,7 +4,7 @@
 ![portadaGithubi-16](https://user-images.githubusercontent.com/77625247/127816974-77e972c5-8145-479b-8e41-b8f005ef24af.jpg)
 ## Hi! I'm Estefania! :rocket:
 
-### Full Stack developer :zap: Creative thinker
+### Full Stack developer :zap: I enjoy finding creative solutions
 - - -
 ## :computer: Skills
 Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Tailwindcss - Figma - Trello
