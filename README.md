@@ -34,10 +34,6 @@ Movie searcher using IMBD API, built with React-Redux and styled with CSS.
 ![Screenshot (278)](https://user-images.githubusercontent.com/77625247/127820564-0d240195-3a47-4342-84c1-8fa983adf68d.png)
 
 
-#### Friend Finder!
-![friendfinder](https://user-images.githubusercontent.com/77625247/127820677-0ac2ab6e-8ebe-49f1-acd5-af3e85aadab8.jpg)
-
-
 
 ## :mailbox_with_mail: How to Reach me
 - b.estefaniapecora@gmail.com
