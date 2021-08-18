@@ -20,7 +20,7 @@ Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Ta
 
 #### Hardware E-commerce
 This was a group project, fully developed under Agil Methodologies, built during 4 one week sprints and using Trello for task managment. I created server routes, complex Sequelize queries, and helped integrate a payment platform provided by Mercado Pago. I also created front end React-Redux  Components for several sections. 
-[Link to work](https://e-commerce-copy.vercel.app)
+[Link to work](https://hardwarestore.vercel.app)
 ![E-commerce Home](https://user-images.githubusercontent.com/77625247/127784466-a965fbc8-ff72-41ba-a93c-d49238223763.png)
 
 #### Country Explorer
