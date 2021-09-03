@@ -14,7 +14,7 @@ As a former Ad creative, I gained experience in working with cross-functional te
 ## :computer: Tools and Technologies
 ![stack-logos](https://user-images.githubusercontent.com/77625247/127882351-b3a67430-e04b-41dd-ae66-a43197f64fd5.jpg)
 
-Javascript - NodeJs - React - Redux - Express - Sequelize - CSS - Bootstrap - Tailwindcss - Figma - Trello - Python - Postman - MySQL
+Javascript - NodeJs - React - Redux - Express - PostgreSQL - Sequelize - CSS - Bootstrap - Tailwindcss - Figma - Trello - Python - Postman - MySQL
 - - -
 ## :star: My Work
 
