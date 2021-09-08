@@ -18,6 +18,10 @@ Javascript - NodeJs - React - Redux - Express - PostgreSQL - Sequelize - CSS - B
 - - -
 ## :star: My Work
 
+Here is a link to my portfolio online:
+https://estefania-pecora.vercel.app/
+
+- - -
 #### Hardware E-commerce
 This was a group project, fully developed under Agil Methodologies, built during 4 one week sprints and using Trello for task managment. I created server routes, complex Sequelize queries, and helped integrate a payment platform provided by Mercado Pago. I also created front end React-Redux  Components for several sections. 
 [Link to work](https://hardwarestore.vercel.app)
@@ -38,6 +42,7 @@ Movie searcher using IMBD API, built with React-Redux and styled with CSS.
 ## :mailbox_with_mail: How to Reach me
 - b.estefaniapecora@gmail.com
 - https://www.linkedin.com/in/estefania-pecora/
+- https://estefania-pecora.vercel.app/
 
 
 
