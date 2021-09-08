@@ -18,7 +18,7 @@ Javascript - NodeJs - React - Redux - Express - PostgreSQL - Sequelize - CSS - B
 - - -
 ## :star: My Work
 
-Here is a link to <a href="https://estefania-pecora.vercel.app/" target="_blank">my portfolio</a> online:
+Here is a link to [my portfolio](https://estefania-pecora.vercel.app/) online:
 
 - - -
 #### Hardware E-commerce
