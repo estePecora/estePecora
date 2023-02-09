@@ -7,7 +7,7 @@
 
 ### Full Stack developer :zap: I enjoy finding creative solutions
 I never outgrew childhood curiosity; I’m always asking 'why' and 'how' about everything. That’s how I ended up taking my first steps in programming, and eventually I realized it combined lots of the things I love: technology, creative thinking, and the fact you are always learning something new. So I decided to pursue it as a new career path.<br/>
-I’ve always been interested in science and technology, so I began my studies both in engineering and design, but finally focus on design and started working in advertising.<br/>
+
 As a former Ad creative, I gained experience in working with cross-functional teams, and different clients. I overall enjoyed working with brands or companies that have social impact. If you like my profile leave me a message! :smile:
 
 - - -
